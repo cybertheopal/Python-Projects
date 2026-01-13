@@ -1,4 +1,4 @@
-import random
+import rando
 import hangman_art
 import hangman_words
 
