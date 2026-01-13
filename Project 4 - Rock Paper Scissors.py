@@ -1,4 +1,4 @@
-mport random #Import the random module so the functions can be used.
+import random #Import the random module so the functions can be used.
 
 #ASCII designs for rock, paper scissors
 rock = ''' 
